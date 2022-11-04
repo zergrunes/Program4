@@ -1,0 +1,2 @@
+Since I talked about test 1 on the first task, I wanted to talk more about task 3's boxplot chart on this task.
+The max score is 100 while the minimum is around the 50 range excluding the outlier.
